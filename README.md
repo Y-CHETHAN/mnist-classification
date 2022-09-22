@@ -158,8 +158,10 @@ print(x_single_prediction)
 ### Confusion Matrix
 ![image](https://user-images.githubusercontent.com/75234991/191759446-71e1ac3b-6d4b-4b5a-b85c-fdff32d663a3.png)
 
-### New Sample Data Prediction
+### New Sample Data Prediction\
+#### Sample Input
 ![image](https://user-images.githubusercontent.com/75234991/191759546-ac7be80f-24a5-424a-86c2-d6d8e6bec26a.png)
+#### Sample Output
 ![image](https://user-images.githubusercontent.com/75234991/191759644-ac0f6c5c-adb3-4457-9bf7-714a872e69ad.png)
 
 ## RESULT
