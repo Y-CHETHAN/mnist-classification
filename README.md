@@ -4,8 +4,6 @@
 
 To Develop a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images.
 
-## PROBLEM STATEMENT AND DATASET
-
 ## NEURAL NETWORK MODEL
 
 ![nn](https://user-images.githubusercontent.com/65499285/190903314-151ecc46-ab8a-47e9-8c9e-af2d699c38c1.svg)
@@ -30,6 +28,8 @@ The necessary Validating parameters are visualized for inspection.
 
 ### Step 5:
 Finally, we pass handwritten digits to the model for prediction.
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
