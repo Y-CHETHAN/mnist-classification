@@ -10,8 +10,6 @@ To Develop a convolutional deep neural network for digit classification and to v
 
 ![model](https://user-images.githubusercontent.com/65499285/190903321-249a6aae-bc42-4d97-9f69-b488f12215a2.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ## DESIGN STEPS
 
 ### Step 1:
@@ -28,8 +26,6 @@ The necessary Validating parameters are visualized for inspection.
 
 ### Step 5:
 Finally, we pass handwritten digits to the model for prediction.
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
@@ -153,8 +149,6 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 ![image](https://user-images.githubusercontent.com/75234991/191759064-d61e9451-a8a7-4db9-b7e3-1ccf7b281282.png)
-
-<br><br><br><br><br><br>
 
 ### Classification Report
 ![image](https://user-images.githubusercontent.com/75234991/191759278-f1e9aa6e-f58f-4a19-8347-7bfe4964774c.png)
